@@ -28,12 +28,10 @@
                                 <ul>
                                     <li><i class="fas fa-check-circle"></i>Lorem ispum</li>
                                     <li><i class="fas fa-check-circle"></i>Lorem ispum</li>
-                                    <li><i class="fas fa-check-circle"></i>Lorem ispum</li>
                                 </ul>
                             </div>
                             <div class="col-lg-6">
                                 <ul>
-                                    <li><i class="fas fa-check-circle"></i>Lorem ispum</li>
                                     <li><i class="fas fa-check-circle"></i>Lorem ispum</li>
                                     <li><i class="fas fa-check-circle"></i>Lorem ispum</li>
                                 </ul>
@@ -218,29 +216,20 @@
         </div>
     </section>
 
-    <!-- team -->
-    <section class="doctor-area pb-100">
+   <!-- team -->
+    <section class="doctor-area pb-70">
         <div class="container">
-            <div class="team-heading">
-                <h2>Meet Our <span>professional Doctors</span></h2>
-                <p>Doctor clinic is dedicated to providing the most up to date services in the city</p>
-            </div>
-            <div class="row">
-                <div class="col-lg-6 col-md-6">
-                    <div class="single-doctor">
-                        <a href="gyna.php"><img src="assets/images/doctor/doctor-4.jpg" alt="image"></a>
-                        <div class="doctor-content">
-                            <h3>
-                                <a href="gyna.php">Dr. Johnson Melbourne</a>
-                            </h3>
-                            <span>Gynaecologist</span>
-                            <div class="share-link">
-                                <a href="gyna.php">View more</a>
-                            </div>
-                        </div>
+            <div class="align-items-center">
+                <div class="text-center">
+                    <div class="section-title-warp">
+                        <h2>Meet Our <span>professional Doctors</span></h2>
+                        <p>Doctor clinic is dedicated to providing the most up to date services in the city</p>
                     </div>
                 </div>
-                <div class="col-lg-6 col-md-6">
+            </div>
+            <div class="row">
+
+                <div class="col-lg-4 col-md-4">
                     <div class="single-doctor">
                         <a href="heart.php"><img src="assets/images/doctor/doctor-9.jpg" alt="image"></a>
                         <div class="doctor-content">
@@ -249,9 +238,38 @@
                             </h3>
                             <span>Heart Specialist</span>
                             <div class="share-link">
-                                <a href="heart.php">View more</a>
+                                <a href="heart.php" class="default-btn">Know more</a>
                             </div>
                         </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-4">
+                    <div class="single-doctor">
+                        <a href="gyna.php"><img src="assets/images/doctor/doctor-4.jpg" alt="image"></a>
+                        <div class="doctor-content">
+                            <h3>
+                                <a href="gyna.php">Dr. Johnson Melbourne</a>
+                            </h3>
+                            <span>Gynaecologist</span>
+                            <div class="share-link">
+                                <a href="gyna.php" class="default-btn">Know more</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+
+                <div class="col-lg-4 col-md-4">
+                    <div class="hours">
+                        <h4><i class="fas fa-history"></i>opening hours</h4>
+                        <p>Monday - Friday<span>9.00 - 20.00</span></p>
+                        <p>Saturday<span>10.00 - 16.00</span></p>
+                        <p>Sunday<span>9.30 - 18.00</span></p>
+                        <h4><i class="fas fa-edit"></i>need help?</h4>
+                        <p style="border: none;">Just make an appointment to get help from our experts</p>
+                        <a href="#goto" class="default-btn">Make Appointment</a>
                     </div>
                 </div>
             </div>

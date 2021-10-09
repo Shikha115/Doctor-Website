@@ -1,125 +1,127 @@
-    <!-- footer -->
-    <footer class="footer-area">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-3 col-md-6">
-                    <div class="single-footer-widget">
-                        <h2>
-                            <a href="index.php">Doctor's clinic</a>
-                        </h2>
-                        <p>Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor ut labore dolore magna</p>
-                        <div class="contact-info">
-                            <div class="contact-info-content">
-                                <ul class="social">
-                                    <li><a href="#" target="_blank"><i class='bx bxl-twitter'></i></a></li>
-                                    <li><a href="#" target="_blank"><i class='bx bxl-youtube'></i></a></li>
-                                    <li><a href="#" target="_blank"><i class='bx bxl-facebook'></i></a></li>
-                                    <li><a href="#" target="_blank"><i class='bx bxl-linkedin'></i></a></li>
-                                    <li><a href="#" target="_blank"><i class='bx bxl-instagram'></i></a></li>
-                                </ul>
+<!-- footer -->
+<footer class="footer-area">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-3 col-md-6">
+                <div class="single-footer-widget">
+                    <h2>
+                        <a href="index.php">Doctor's clinic</a>
+                    </h2>
+                    <p>Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor ut labore dolore magna</p>
+                    <div class="contact-info">
+                        <div class="contact-info-content">
+                            <ul class="social">
+                                <li><a href="twitter.com" target="_blank"><i class='bx bxl-twitter'></i></a></li>
+                                <li><a href="youtube.com" target="_blank"><i class='bx bxl-youtube'></i></a></li>
+                                <li><a href="facebook.com" target="_blank"><i class='bx bxl-facebook'></i></a></li>
+                                <li><a href="linkedin.com" target="_blank"><i class='bx bxl-linkedin'></i></a></li>
+                                <li><a href="instagram.com" target="_blank"><i class='bx bxl-instagram'></i></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-sm-6">
+                <div class="single-footer-widget">
+                    <h3>News & Blog</h3>
+                    <div class="footer-widget-blog">
+                        <article class="item">
+                            <a href="blog-details.php" class="thumb">
+                                <span class="fullimage bg1" style="background-image: url('assets/images/blog/1622803281.jpg')" role="img"></span>
+                            </a>
+                            <div class="info">
+                                <span>Admin</span>
+                                <h4><a href="blog-details.php">New Technology Make for Doctor Operation</a></h4>
                             </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-sm-6">
-                    <div class="single-footer-widget">
-                        <h3>News & Blog</h3>
-                        <div class="footer-widget-blog">
-                            <article class="item">
-                                <a href="blog-details.php" class="thumb">
-                                    <span class="fullimage bg1" role="img"></span>
-                                </a>
-                                <div class="info">
-                                    <span>By Daisy Gabriela</span>
-                                    <h4><a href="blog-details.php">Hygiene for Children</a></h4>
-                                </div>
-                            </article>
-                            <article class="item">
-                                <a href="blog-details.php" class="thumb">
-                                    <span class="fullimage bg2" role="img"></span>
-                                </a>
-                                <div class="info">
-                                    <span>By Ronnie Aaron</span>
-                                    <h4><a href="blog-details.php">Regular Checkup for Good Teeth</a></h4>
-                                </div>
-                            </article>
-                            <article class="item">
-                                <a href="blog-details.php" class="thumb">
-                                    <span class="fullimage bg3" role="img"></span>
-                                </a>
-                                <div class="info">
-                                    <span>By Babatunde Jon</span>
-                                    <h4><a href="blog-details.php">Teeth Whitening is Now Popular</a></h4>
-                                </div>
-                            </article>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-2 col-sm-6">
-                    <div class="single-footer-widget">
-                        <h3>Useful Link</h3>
-                        <ul class="quick-links">
-                            <li>
-                                <a href="index.php">Home</a>
-                            </li>
-                            <li>
-                                <a href="about.php">About Us</a>
-                            </li>
-                            <li>
-                                <a href="our-doctors.php">Our Doctors</a>
-                            </li>
-                            <li>
-                                <a href="blog.php">Our Blogs</a>
-                            </li>
-                            <li>
-                                <a href="FAQ.php">FAQ</a>
-                            </li>
-                            <li>
-                                <a href="contact.php">Contact Us</a>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-sm-6">
-                    <div class="single-footer-widget">
-                        <h3>Contact Information</h3>
-                        <ul class="footer-information">
-                            <li>
-                                <i class="flaticon-emergency-call"></i> Call Today
-                                <span><a href="tel:088123654987">+088 123 654 987</a></span>
-                            </li>
-                            <li>
-                                <i class="flaticon-wall-clock"></i> Open Hour
-                                <span>09:00 AM to 18:00 PM</span>
-                            </li>
-                            <li>
-                                <i class="flaticon-red-cross"></i> Our Location
-                                <span>506-507,ITL Northex Tower,A09 Netaji Subhash Place,Pitampura, Delhi-110034</span>
-                            </li>
-                        </ul>
+                        </article>
+                        <article class="item">
+                            <a href="blog-details.php" class="thumb">
+                                <span class="fullimage bg2" style="background-image: url('assets/images/blog/1622803281.jpg')" role="img"></span>
+                            </a>
+                            <div class="info">
+                                <span>Admin</span>
+                                <h4><a href="blog-details.php">New Technology Make for Doctor Operation</a></h4>
+                            </div>
+                        </article>
+                        <article class="item">
+                            <a href="blog-details.php" class="thumb">
+                                <span class="fullimage bg3" style="background-image: url('assets/images/blog/1622803281.jpg')" role="img"></span>
+                            </a>
+                            <div class="info">
+                                <span>Admin</span>
+                                <h4><a href="blog-details.php">New Technology Make for Doctor Operation</a></h4>
+                            </div>
+                        </article>
+
                     </div>
                 </div>
             </div>
-        </div>
-    </footer>
-
-    <!-- copyright -->
-    <div class="copyright-area">
-        <div class="container">
-            <div class="copyright-area-content">
-                <p>Copyright &copy; 2021 Doctor's clinic. All rights reserved. Designed by 
-                    <a href="https://ebslon.com/" target="_blank">
-                    Ebslon Infotech
-                    </a>
-                </p>
+            <div class="col-lg-2 col-sm-6">
+                <div class="single-footer-widget">
+                    <h3>Useful Link</h3>
+                    <ul class="quick-links">
+                        <li>
+                            <a href="index.php">Home</a>
+                        </li>
+                        <li>
+                            <a href="about.php">About Us</a>
+                        </li>
+                        <li>
+                            <a href="our-doctors.php">Our Doctors</a>
+                        </li>
+                        <li>
+                            <a href="blog.php">Our Blogs</a>
+                        </li>
+                        <li>
+                            <a href="faq.php">FAQ</a>
+                        </li>
+                        <li>
+                            <a href="contact.php">Contact Us</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-lg-3 col-sm-6">
+                <div class="single-footer-widget">
+                    <h3>Contact Information</h3>
+                    <ul class="footer-information">
+                        <li>
+                            <i class="flaticon-emergency-call"></i> Call Today
+                            <span><a href="tel:088 123 654 987
+        ">+088 123 654 987
+        </a></span>
+                        </li>
+                        <li>
+                            <i class="flaticon-wall-clock"></i> Open Hour
+                            <span>09:00 AM to 18:00 PM</span>
+                        </li>
+                        <li>
+                            <i class="flaticon-red-cross"></i> Our Location
+                            <span>506-507,ITL Northex Tower,A09 Netaji Subhash Place,Pitampura, Delhi-110034</span>
+                        </li>
+                    </ul>
+                </div>
             </div>
         </div>
     </div>
+</footer>
 
-    <!-- arrow -->
-    <div class="go-top">
-        <i class='bx bx-up-arrow-alt'></i>
+<!-- copyright -->
+<div class="copyright-area">
+    <div class="container">
+        <div class="copyright-area-content">
+            <p>Copyright &copy; 2021 Doctor's clinic. All rights reserved. Designed by
+                <a href="https://ebslon.com/" target="_blank">
+                            Ebslon Infotech
+                            </a>
+            </p>
+        </div>
     </div>
+</div>
+<!-- arrow -->
+<div class="go-top">
+    <i class='bx bx-up-arrow-alt'></i>
+</div>
 
     <!-- scripts -->
     <script data-cfasync="false" src="../../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>

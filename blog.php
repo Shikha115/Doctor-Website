@@ -28,15 +28,12 @@
                             <h3>
                                 <a href="blog-details.php">New Technology Make for Doctor Operation</a>
                             </h3>
-                            <p>Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod.</p>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim venia..</p>
                             <a href="blog-details.php" class="blog-btn">Read More</a>
                             <ul class="entry-meta">
                                 <li>
                                     <i class='bx bxs-user'></i>
                                     <span>By Daisy Gabriela</span>
-                                </li>
-                                <li>
-                                    <i class='bx bxs-comment'></i> 2 Comments
                                 </li>
                             </ul>
                         </div>
@@ -53,15 +50,12 @@
                             <h3>
                                 <a href="blog-details.php">Regular Doctor care make Your Smile Brighter</a>
                             </h3>
-                            <p>Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod.</p>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim venia..</p>
                             <a href="blog-details.php" class="blog-btn">Read More</a>
                             <ul class="entry-meta">
                                 <li>
                                     <i class='bx bxs-user'></i>
                                     <span>By Babatunde Jon</span>
-                                </li>
-                                <li>
-                                    <i class='bx bxs-comment'></i> 2 Comments
                                 </li>
                             </ul>
                         </div>
@@ -78,15 +72,12 @@
                             <h3>
                                 <a href="blog-details.php">Doctor Hygiene for All Age to Make Smile</a>
                             </h3>
-                            <p>Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod.</p>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim venia..</p>
                             <a href="blog-details.php" class="blog-btn">Read More</a>
                             <ul class="entry-meta">
                                 <li>
                                     <i class='bx bxs-user'></i>
                                     <span>By Daisy Gabriela</span>
-                                </li>
-                                <li>
-                                    <i class='bx bxs-comment'></i> 2 Comments
                                 </li>
                             </ul>
                         </div>
@@ -103,15 +94,12 @@
                             <h3>
                                 <a href="blog-details.php">10 Doctor Technology That Really Help</a>
                             </h3>
-                            <p>Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod.</p>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim venia..</p>
                             <a href="blog-details.php" class="blog-btn">Read More</a>
                             <ul class="entry-meta">
                                 <li>
                                     <i class='bx bxs-user'></i>
                                     <span>By Ronnie Aaron</span>
-                                </li>
-                                <li>
-                                    <i class='bx bxs-comment'></i> 2 Comments
                                 </li>
                             </ul>
                         </div>
@@ -128,15 +116,12 @@
                             <h3>
                                 <a href="blog-details.php">World Best Dentist Meetup in Workshop</a>
                             </h3>
-                            <p>Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod.</p>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim venia..</p>
                             <a href="blog-details.php" class="blog-btn">Read More</a>
                             <ul class="entry-meta">
                                 <li>
                                     <i class='bx bxs-user'></i>
                                     <span>By Daisy Gabriela</span>
-                                </li>
-                                <li>
-                                    <i class='bx bxs-comment'></i> 2 Comments
                                 </li>
                             </ul>
                         </div>
@@ -153,15 +138,12 @@
                             <h3>
                                 <a href="blog-details.php">Hygiene for All Age to Make Smile Brighter</a>
                             </h3>
-                            <p>Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod.</p>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim venia..</p>
                             <a href="blog-details.php" class="blog-btn">Read More</a>
                             <ul class="entry-meta">
                                 <li>
                                     <i class='bx bxs-user'></i>
                                     <span>By Babatunde Jon</span>
-                                </li>
-                                <li>
-                                    <i class='bx bxs-comment'></i> 2 Comments
                                 </li>
                             </ul>
                         </div>
